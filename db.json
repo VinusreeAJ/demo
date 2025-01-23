@@ -1,0 +1,146 @@
+{
+  "bags": [
+    {
+      "id": 1,
+      "name": "Laptop Bag",
+      "description": "A stylish and durable laptop bag",
+      "image": "https://example.com/laptop-bag.jpg",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "name": "Travel Bag",
+      "description": "A spacious and comfortable travel bag",
+      "image": "https://example.com/travel-bag.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 3,
+      "name": "Backpack",
+      "description": "A versatile and ergonomic backpack",
+      "image": "https://example.com/backpack.jpg",
+      "price": 39.99
+    },
+    {
+      "id": 4,
+      "name": "Handbag",
+      "description": "A stylish and functional handbag",
+      "image": "https://example.com/handbag.jpg",
+      "price": 19.99
+    },
+    {
+      "id": 5,
+      "name": "Shoulder Bag",
+      "description": "A comfortable and stylish shoulder bag",
+      "image": "https://example.com/shoulder-bag.jpg",
+      "price": 29.99
+    },
+    {
+      "id": 6,
+      "name": "Tote Bag",
+      "description": "A spacious and eco-friendly tote bag",
+      "image": "https://example.com/tote-bag.jpg",
+      "price": 14.99
+    },
+    {
+      "id": 7,
+      "name": "Gym Bag",
+      "description": "A durable and water-resistant gym bag",
+      "image": "https://example.com/gym-bag.jpg",
+      "price": 24.99
+    },
+    {
+      "id": 8,
+      "name": "Messenger Bag",
+      "description": "A stylish and functional messenger bag",
+      "image": "https://example.com/messenger-bag.jpg",
+      "price": 34.99
+    },
+    {
+      "id": 9,
+      "name": "Duffel Bag",
+      "description": "A spacious and durable duffel bag",
+      "image": "https://example.com/duffel-bag.jpg",
+      "price": 44.99
+    },
+    {
+      "id": 10,
+      "name": "Sling Bag",
+      "description": "A compact and stylish sling bag",
+      "image": "https://example.com/sling-bag.jpg",
+      "price": 17.99
+    }
+  ],
+  "phones": [
+    {
+      "id": 1,
+      "name": "Apple iPhone",
+      "description": "A high-end smartphone with advanced features",
+      "image": "https://example.com/iphone.jpg",
+      "price": 999.99
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy",
+      "description": "A feature-rich smartphone with a large display",
+      "image": "https://example.com/galaxy.jpg",
+      "price": 799.99
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel",
+      "description": "A camera-centric smartphone with timely updates",
+      "image": "https://example.com/pixel.jpg",
+      "price": 699.99
+    },
+    {
+      "id": 4,
+      "name": "OnePlus",
+      "description": "A fast and feature-rich smartphone with a large battery",
+      "image": "https://example.com/oneplus.jpg",
+      "price": 599.99
+    },
+    {
+      "id": 5,
+      "name": "Huawei P30",
+      "description": "A high-end smartphone with advanced camera features",
+      "image": "https://example.com/p30.jpg",
+      "price": 899.99
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Mi",
+      "description": "A budget-friendly smartphone with impressive features",
+      "image": "https://example.com/mi.jpg",
+      "price": 499.99
+    },
+    {
+      "id": 7,
+      "name": "Nokia",
+      "description": "A classic and durable smartphone with a long battery life",
+      "image": "https://example.com/nokia.jpg",
+      "price": 399.99
+    },
+    {
+      "id": 8,
+      "name": "Motorola",
+      "description": "A feature-rich smartphone with a large display and durable design",
+      "image": "https://example.com/motorola.jpg",
+      "price": 599.99
+    },
+    {
+      "id": 9,
+      "name": "Sony Xperia",
+      "description": "A high-end smartphone with advanced camera features and water resistance",
+      "image": "https://example.com/xperia.jpg",
+      "price": 899.99
+    },
+    {
+      "id": 10,
+      "name": "LG G8",
+      "description": "A feature-rich smartphone with a large display and advanced camera features",
+      "image": "https://example.com/g8.jpg",
+      "price": 699.99
+    }
+  ]
+}
